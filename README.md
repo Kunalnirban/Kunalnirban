@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/itskunalnirban" target="blank"><img src="https://img.shields.io/twitter/follow/itskunalnirban?logo=twitter&style=for-the-badge" alt="itskunalnirban" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://kunalnirban.github.io](https://kunalnirban.github.io/)
+- 👨‍💻 All of my projects are available at [kunalnirban.github.io](https://kunalnirban.github.io/)
 
 - 💬 Ask me about **Javascript, C, C++, DSA**
 
 - 📫 How to reach me **kunalydv@proton.me**
 
-- 📄 Know about my experiences [Resume](https://kunalnirban.github.io/Projects/Portfolio/Media/Kunal%20Yadav's%20Resume.pdf)
+- 📄 Know about my experiences [Resume](https://kunalnirban.github.io/Projects/Portfolio/Media/Kunal%E2%80%99s%20resume%20format%201%20(Soft%20Copy).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
