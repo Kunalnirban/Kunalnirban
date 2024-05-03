@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [kunalnirban.github.io](https://kunalnirban.github.io/)
 
-- 💬 Ask me about **Javascript, C, C++, DSA**
+- 💬 Ask me about **Javascript, C, C++, DSA, Java, C#**
 
 - 📫 How to reach me **kunalydv@proton.me**
 
