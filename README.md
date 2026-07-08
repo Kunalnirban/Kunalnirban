@@ -9,13 +9,11 @@
 
 - 🌱 I’m currently learning **Java, Python**
 
-- 👨‍💻 All of my projects are available at [https://kunalnirban.github.io/](https://kunalnirban.github.io/)
+- 👨‍💻 All of my projects are available at [https://kunalyadav.co.in](https://kunalyadav.co.in)
 
-- 📝 I regularly write articles on [kunalnirban.github.io](kunalnirban.github.io)
+- 📝 I regularly write articles on [kunalyadav.co.in](kunalyadav.co.in)
 
-- 📫 How to reach me **kunalydv@proton.me**
-
-- 📄 Know about my experiences [#](#)
+- 📫 How to reach me **kunal@kunalyadav.co.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
