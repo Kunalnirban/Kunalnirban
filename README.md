@@ -1,32 +1,152 @@
-<h1 align="center">Hi 👋, I'm Kunal Yadav</h1>
-<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalnirban&label=Profile%20views&color=0e75b6&style=flat" alt="kunalnirban" /> </p>
+# Hi 👋, I'm Kunal Yadav
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalnirban" alt="kunalnirban" /></a> </p>
+### EdTech Builder • Technical Writer
 
-<p align="left"> <a href="https://twitter.com/itskunalnirban" target="blank"><img src="https://img.shields.io/twitter/follow/itskunalnirban?logo=twitter&style=for-the-badge" alt="itskunalnirban" /></a> </p>
+Building scalable web applications, educational platforms, developer tools, and payment infrastructure.
 
-- 🌱 I’m currently learning **Java, Python**
+---
 
-- 👨‍💻 All of my projects are available at [https://kunalyadav.co.in](https://kunalyadav.co.in)
+## 🚀 About Me
 
-- 📝 I regularly write articles on [kunalyadav.co.in](kunalyadav.co.in)
+- 🔭 Founder of **ByteLabs**
+- 🌐 Building products at **kunalyadav.co.in**
+- 📚 Creating learning platforms for competitive examinations
+- 💳 Building payment verification and reconciliation systems
+- 🤖 Exploring AI, LLMs, automation, and developer tooling
+- ✍️ Writing about startups, software engineering, fintech, and system design
 
-- 📫 How to reach me **kunal@kunalyadav.co.in**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/kunalnirban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kunalnirban" height="30" width="40" /></a>
-<a href="https://twitter.com/itskunalnirban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itskunalnirban" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kunalnirban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunalnirban" height="30" width="40" /></a>
-<a href="https://fb.com/itskunalnirban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itskunalnirban" height="30" width="40" /></a>
-<a href="https://instagram.com/kunal_ydv001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunal_ydv001" height="30" width="40" /></a>
-</p>
+## 🛠 Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Languages
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalnirban&show_icons=true&locale=en&layout=compact" alt="kunalnirban" /></p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalnirban&show_icons=true&locale=en" alt="kunalnirban" /></p>
+---
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+
+---
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Deno](https://img.shields.io/badge/Deno-black?style=for-the-badge&logo=deno)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+
+---
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+
+---
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 🚀 Featured Projects
+
+### 🚀 ByteLabs
+
+An AI-powered education platform offering mock tests, question banks, analytics, and modern learning experiences.
+
+🔗 https://bytelabs.co.in
+
+---
+
+### 📝 DSSSB Computer Science
+
+Complete preparation platform for DSSSB TGT Computer Science.
+
+🔗 https://dsssb.bytelabs.co.in
+
+---
+
+### 🌐 KunalYadav.co.in
+
+My personal website featuring blogs, software projects, technical articles, and open-source work.
+
+🔗 https://www.kunalyadav.co.in
+
+---
+
+### 🧩 Browser Extensions
+
+A collection of productivity and developer-focused browser extensions.
+
+🔗 https://www.kunalyadav.co.in/extensions
+
+---
+
+## 🌱 Currently Exploring
+
+- Rust
+- Artificial Intelligence
+- Large Language Models
+- System Design
+- Distributed Systems
+- Payment Infrastructure
+- FinTech
+- Developer Experience
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=kunalnirban&show_icons=true&theme=github_dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=kunalnirban&theme=github-dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalnirban&layout=compact&theme=github_dark)
+
+---
+
+## 📊 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=kunalnirban&theme=github-dark)
+
+---
+
+## 🌐 Connect With Me
+
+🌍 Website  
+https://www.kunalyadav.co.in
+
+💼 LinkedIn  
+https://linkedin.com/in/kunalnirban
+
+🐙 GitHub  
+https://github.com/kunalnirban
+
+📸 Instagram  
+https://instagram.com/kunal_ydv001
+
+𝕏 X (Twitter)  
+https://x.com/itskunalnirban
+
+---
+
+> *Building products that solve real-world problems.*
+
